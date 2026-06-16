@@ -56,6 +56,9 @@
 {nombre:"Cerveza artesanal premium",precio:300,imagen:"https://i.postimg.cc/N9qVgTwZ/Cerveza-artesanal-premium.png",sector:"Bebidas"},
 {nombre:"Ponche",precio:50,imagen:"https://i.postimg.cc/Jt8gvbKC/ponche-de-frutas.png",sector:"Bebidas"},
 {nombre:"Matcha",precio:50,imagen:"https://i.postimg.cc/R3LSxMrM/Matcha.png",sector:"Bebidas"},
+{nombre:"Coco loco",precio:100,imagen:"https://i.postimg.cc/crtXspVC/Coco-loco.png",sector:"Bebidas"},
+{nombre:"Piña colada",precio:100,imagen:"https://i.postimg.cc/PpqQ09WW/Pina-colada.png",sector:"Bebidas"},
+
 
 
 {nombre:"Ticket de avión",precio:300,imagen:"https://2img.net/i.imgur.com/hCTn9aY.png",sector:"entretenimiento"},
@@ -358,6 +361,12 @@
 {nombre:"Toalla",precio:50,imagen:"https://i.postimg.cc/Tp6RkL58/Toalla-playa.png",sector:"Verano"},
 {nombre:"Sombrilla",precio:100,imagen:"https://i.postimg.cc/G3yryJnx/Sombrilla.png",sector:"Verano"},
 {nombre:"Flotador",precio:150,imagen:"https://i.postimg.cc/x8KWF59W/Flotador.png",sector:"Verano"},
+{nombre:"Caracola",precio:50,imagen:"https://i.postimg.cc/64yz4gqk/Caracola.png",sector:"Verano"},
+{nombre:"Estrella de mar",precio:50,imagen:"https://i.postimg.cc/4ndW07PB/Estrella-de-mar.png",sector:"Verano"},
+{nombre:"Almeja",precio:50,imagen:"https://i.postimg.cc/8s0ZgpXx/Almeja.png",sector:"Verano"},
+{nombre:"Coco",precio:50,imagen:"https://i.postimg.cc/Sn0VjZ4Q/Coco.png",sector:"Verano"},
+{nombre:"Piña",precio:50,imagen:"https://i.postimg.cc/1gsHrf4j/Pina.png",sector:"Verano"},
+
 
 {nombre:"Manta tejida de lana",precio:300,imagen:"https://i.postimg.cc/QCVMJ6gr/image.png",sector:"Otoño"},
 {nombre:"Caja de té premium",precio:400,imagen:"https://i.postimg.cc/RC8CzLQ7/image.png",sector:"Otoño"},
