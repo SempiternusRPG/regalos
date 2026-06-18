@@ -227,6 +227,12 @@
 {nombre:"Catalejo",precio:50,imagen:"https://i.postimg.cc/rytZLKkr/image.png",sector:"Objetos"},
 {nombre:"Sextante",precio:50,imagen:"https://i.postimg.cc/yNbjMzpx/image.png",sector:"Objetos"},
 {nombre:"Globo terráqueo",precio:100,imagen:"https://i.postimg.cc/tT09T0tb/image.png",sector:"Objetos"},
+{nombre:"Incienso",precio:50,imagen:"https://i.postimg.cc/w3G9XjLF/Incienso.png",sector:"Objetos"},
+{nombre:"Saco de hierbas",precio:100,imagen:"https://i.postimg.cc/WDTVNFct/Saco-de-hierbas.png",sector:"Objetos"},
+{nombre:"Vela intencionada",precio:100,imagen:"https://i.postimg.cc/ygrCyLgK/Vela-intencionada.png",sector:"Objetos"},
+{nombre:"Sahumerio",precio:50,imagen:"https://i.postimg.cc/Thp63vFY/Sahumerio.png",sector:"Objetos"},
+{nombre:"Botella de bruja",precio:50,imagen:"https://i.postimg.cc/MXN8crJy/Botella-de-bruja.png",sector:"Objetos"},
+{nombre:"Maqueta armable",precio:150,imagen:"https://i.postimg.cc/T58CxbBD/Maquetas.png",sector:"Objetos"},
 
 
 {nombre:"Auto",precio:1000,imagen:"https://i.postimg.cc/prB6y42c/3.png",sector:"Movilidad"},
