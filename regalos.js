@@ -449,5 +449,8 @@
 {nombre:"Imán de Bergen",precio:50,imagen:"https://i.postimg.cc/tCRHrDgv/hf.png",sector:"Souvenirs"},
 {nombre:"Cuaderno de viaje",precio:50,imagen:"https://i.postimg.cc/HVPNJQM2/Cuadernoviaje.png",sector:"Souvenirs"},
 {nombre:"Barco en miniatura",precio:100,imagen:"https://i.postimg.cc/hf6NCN54/barco-en-botella.png",sector:"Souvenirs"},
+{nombre:"Mjolnir",precio:150,imagen:"https://i.postimg.cc/CB1sgxkV/Mjolnir.png",sector:"Souvenirs"},
+{nombre:"Vegvísir",precio:100,imagen:"https://i.postimg.cc/VrVBLPWg/Vegvisir.png",sector:"Souvenirs"},
+{nombre:"Cuervo tallado a mano",precio:200,imagen:"https://i.postimg.cc/WtdwYtsz/Cuervo-tallado-a-mano.png",sector:"Souvenirs"},
 
 ]
