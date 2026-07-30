@@ -22,7 +22,7 @@
 {nombre:"Cheesecake",precio:100,imagen:"https://i.postimg.cc/MGsNXVn3/Cheesecake.png",sector:"Alimentos"},
 {nombre:"Tabla de quesos",precio:100,imagen:"https://i.postimg.cc/SjqDgxXc/Tabla-de-quesos.png",sector:"Alimentos"},
 {nombre:"Tacos",precio:200,imagen:"https://2img.net/i.imgur.com/P86PQoC.png",sector:"Alimentos"},
-{nombre:"Snacks",precio:100,imagen:"https://i.imgur.com/EhirxXg.png,sector:"Alimentos"},
+{nombre:"Snacks",precio:100,imagen:"https://i.imgur.com/EhirxXg.png",sector:"Alimentos"},
 {nombre:"Cupcake",precio:100,imagen:"https://2img.net/i.imgur.com/vW6XMhc.png",sector:"Alimentos"},
 {nombre:"Fresas bañadas",precio:100,imagen:"https://i.postimg.cc/8cN9XS0j/image.png",sector:"Alimentos"},
 {nombre:"Pastel de cumpleaños",precio:200,imagen:"https://2img.net/i.imgur.com/6Br4W9c.png",sector:"Alimentos"},
