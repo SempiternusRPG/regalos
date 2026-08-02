@@ -32,8 +32,8 @@
 {nombre:"Fondue",precio:50,imagen:"https://i.postimg.cc/rdvj1LnY/Fondue-de-queso.png",sector:"Alimentos"},
 {nombre:"Caviar",precio:300,imagen:"https://i.postimg.cc/XX0S3MjQ/caviar.png",sector:"Alimentos"},
 {nombre:"Gofres",precio:50,imagen:"https://i.postimg.cc/4mBrzmzV/Gofres.png",sector:"Alimentos"},
-{nombre:"Fiskesuppe",precio:100,imagen:"https://i.postimg.cc/21tMKM9k/Fiskesuppe.png",sector:"Alimentos"},
-
+{nombre:"Sándwich de queso",precio:100,imagen:"https://2img.net/i.imgur.com/tMUgpca.png",sector:"Alimentos"},
+{nombre:"Donas",precio:50,imagen:"https://2img.net/i.imgur.com/mifmPd5.png",sector:"Alimentos"},
 
 {nombre:"Zumo",precio:50,imagen:"https://2img.net/i.imgur.com/XupzqnT.png",sector:"Bebidas"},
 {nombre:"Cerveza",precio:100,imagen:"https://2img.net/i.imgur.com/GRq45gk.png",sector:"Bebidas"},
@@ -58,6 +58,7 @@
 {nombre:"Matcha",precio:50,imagen:"https://i.postimg.cc/R3LSxMrM/Matcha.png",sector:"Bebidas"},
 {nombre:"Coco loco",precio:100,imagen:"https://i.postimg.cc/crtXspVC/Coco-loco.png",sector:"Bebidas"},
 {nombre:"Piña colada",precio:100,imagen:"https://i.postimg.cc/PpqQ09WW/Pina-colada.png",sector:"Bebidas"},
+{nombre:"Té de burbujas",precio:100,imagen:"https://2img.net/i.imgur.com/ncTP0xx.png",sector:"Bebidas"},
 
 
 
@@ -87,6 +88,10 @@
 {nombre:"Salida al paintball",precio:200,imagen:"https://i.postimg.cc/v1yhhCsD/image.png",sector:"entretenimiento"},
 {nombre:"Entrada para el ballet",precio:200,imagen:"https://i.postimg.cc/06mWHQJZ/Entrada-para-el-ballet.png",sector:"entretenimiento"},
 {nombre:"Avistamiento de auroras",precio:200,imagen:"https://i.postimg.cc/c6d9Xd1R/Avistamiento-de-auroras.png",sector:"entretenimiento"},
+{nombre:"Paseo en globo",precio:300,imagen:"https://2img.net/i.imgur.com/KN53vAD.png",sector:"entretenimiento"},
+{nombre:"Entrada a festival musical",precio:200,imagen:"https://2img.net/i.imgur.com/6xJmZEe.png",sector:"entretenimiento"},
+{nombre:"Salida al club/discoteca",precio:100,imagen:"https://2img.net/i.imgur.com/kEU0myt.png",sector:"entretenimiento"},
+{nombre:"Salida al parque acuático",precio:100,imagen:"https://2img.net/i.imgur.com/86qrS3p.png",sector:"entretenimiento"},
 
 
 {nombre:"Aretes 1",imagen:"https://2img.net/i.imgur.com/NGCmw6s.png",precio:150,sector:"Moda"},
@@ -233,6 +238,9 @@
 {nombre:"Sahumerio",precio:50,imagen:"https://i.postimg.cc/Thp63vFY/Sahumerio.png",sector:"Objetos"},
 {nombre:"Botella de bruja",precio:50,imagen:"https://i.postimg.cc/MXN8crJy/Botella-de-bruja.png",sector:"Objetos"},
 {nombre:"Maqueta armable",precio:150,imagen:"https://i.postimg.cc/T58CxbBD/Maquetas.png",sector:"Objetos"},
+{nombre:"Violin",precio:400,imagen:"https://2img.net/i.imgur.com/MjY6tWK.png",sector:"Objetos"},
+{nombre:"Piano",precio:500,imagen:"https://2img.net/i.imgur.com/BXKjkoo.png",sector:"Objetos"},
+{nombre:"Caja musical",precio:100,imagen:"https://2img.net/i.imgur.com/ZPSJVDh.png",sector:"Objetos"},
 
 
 {nombre:"Auto",precio:1000,imagen:"https://i.postimg.cc/prB6y42c/3.png",sector:"Movilidad"},
