@@ -120,7 +120,7 @@
 {nombre:"Bolso",imagen:"https://2img.net/i.imgur.com/Ob6GjyO.png",precio:200,sector:"Moda"},
 {nombre:"Broche 1",imagen:"https://2img.net/i.imgur.com/uyljsGw.png",precio:100,sector:"Moda"},
 {nombre:"Broche 2",imagen:"https://2img.net/i.imgur.com/qedr5zY.png",precio:100,sector:"Moda"},
-{nombre:"Cinturón",imagen:"https://i.postimg.cc/zL7SMnHb/Cinturon.png",precio:50,sector:"Moda"},
+{nombre:"ón",imagen:"https://i.postimg.cc/zL7SMnHb/Cinturon.png",precio:50,sector:"Moda"},
 {nombre:"Vestido",imagen:"https://i.postimg.cc/p9Lnm3ym/Vestido.png",precio:100,sector:"Moda"},
 {nombre:"Corbata",imagen:"https://i.postimg.cc/Y025d7vF/image.png",precio:50,sector:"Moda"},
 {nombre:"Gemelos",imagen:"https://i.postimg.cc/NFPzbHqc/image.png",precio:50,sector:"Moda"},
@@ -139,7 +139,7 @@
 {nombre:"Camiseta de fútbol",imagen:"https://i.postimg.cc/JzksHS76/camfut.png",precio:100,sector:"Moda"},
 {nombre:"Chaqueta de cuero",imagen:"https://i.postimg.cc/7hbvSVZ5/chaquecuero.png",precio:150,sector:"Moda"},
 {nombre:"Scrunchie",imagen:"https://i.postimg.cc/1XQ1kwg9/scrunchie.png",precio:50,sector:"Moda"},
-
+{nombre:"Chanclas",imagen:"https://i.postimg.cc/sXq5sP7f/Chanclas.png",precio:100,sector:"Moda"},
 
 {nombre:"Libros",precio:100,imagen:"https://2img.net/i.imgur.com/jTc6oLB.png",sector:"Juegos"},
 {nombre:"Juego de mesa",precio:100,imagen:"https://2img.net/i.imgur.com/mkncTQ5.png",sector:"Juegos"},
