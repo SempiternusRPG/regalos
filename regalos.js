@@ -135,6 +135,7 @@
 {nombre:"Máscara de esquí",imagen:"https://i.postimg.cc/Mf09ZrDk/Mascara-de-esqui.png",precio:50,sector:"Moda"},
 {nombre:"Boina",imagen:"https://i.postimg.cc/yWdV24vm/Boina.png",precio:100,sector:"Moda"},
 {nombre:"Camiseta de fútbol",imagen:"https://i.postimg.cc/JzksHS76/camfut.png",precio:100,sector:"Moda"},
+{nombre:"Chaqueta de cuero",imagen:"https://i.postimg.cc/7hbvSVZ5/chaquecuero.png",precio:150,sector:"Moda"},
 
 
 {nombre:"Libros",precio:100,imagen:"https://2img.net/i.imgur.com/jTc6oLB.png",sector:"Juegos"},
@@ -241,6 +242,7 @@
 {nombre:"Violin",precio:400,imagen:"https://2img.net/i.imgur.com/MjY6tWK.png",sector:"Objetos"},
 {nombre:"Piano",precio:500,imagen:"https://2img.net/i.imgur.com/BXKjkoo.png",sector:"Objetos"},
 {nombre:"Caja musical",precio:100,imagen:"https://2img.net/i.imgur.com/ZPSJVDh.png",sector:"Objetos"},
+{nombre:"Pistola",precio:300,imagen:"https://i.postimg.cc/05H1PLV1/gun.png",sector:"Objetos"},
 
 
 {nombre:"Auto",precio:1000,imagen:"https://i.postimg.cc/prB6y42c/3.png",sector:"Movilidad"},
