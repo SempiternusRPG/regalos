@@ -34,6 +34,8 @@
 {nombre:"Gofres",precio:50,imagen:"https://i.postimg.cc/4mBrzmzV/Gofres.png",sector:"Alimentos"},
 {nombre:"Sándwich de queso",precio:100,imagen:"https://2img.net/i.imgur.com/tMUgpca.png",sector:"Alimentos"},
 {nombre:"Donas",precio:50,imagen:"https://2img.net/i.imgur.com/mifmPd5.png",sector:"Alimentos"},
+{nombre:"Algodón de azúcar",precio:50,imagen:"https://i.postimg.cc/qvYSfyY5/algodon.png",sector:"Alimentos"},
+{nombre:"Palomitas de maíz",precio:50,imagen:"https://i.postimg.cc/ZnTDPcB0/paloimitas.png",sector:"Alimentos"},
 
 {nombre:"Zumo",precio:50,imagen:"https://2img.net/i.imgur.com/XupzqnT.png",sector:"Bebidas"},
 {nombre:"Cerveza",precio:100,imagen:"https://2img.net/i.imgur.com/GRq45gk.png",sector:"Bebidas"},
@@ -59,8 +61,7 @@
 {nombre:"Coco loco",precio:100,imagen:"https://i.postimg.cc/crtXspVC/Coco-loco.png",sector:"Bebidas"},
 {nombre:"Piña colada",precio:100,imagen:"https://i.postimg.cc/PpqQ09WW/Pina-colada.png",sector:"Bebidas"},
 {nombre:"Té de burbujas",precio:100,imagen:"https://2img.net/i.imgur.com/ncTP0xx.png",sector:"Bebidas"},
-
-
+{nombre:"Refresco",precio:50,imagen:"https://i.postimg.cc/FzDCTL3C/refresco.png",sector:"Bebidas"},
 
 {nombre:"Ticket de avión",precio:300,imagen:"https://2img.net/i.imgur.com/hCTn9aY.png",sector:"entretenimiento"},
 {nombre:"Paseo en barco",precio:300,imagen:"https://2img.net/i.imgur.com/kDcfpRv.png",sector:"entretenimiento"},
@@ -92,6 +93,7 @@
 {nombre:"Entrada a festival musical",precio:200,imagen:"https://2img.net/i.imgur.com/6xJmZEe.png",sector:"entretenimiento"},
 {nombre:"Salida al club/discoteca",precio:100,imagen:"https://2img.net/i.imgur.com/kEU0myt.png",sector:"entretenimiento"},
 {nombre:"Salida al parque acuático",precio:100,imagen:"https://2img.net/i.imgur.com/86qrS3p.png",sector:"entretenimiento"},
+{nombre:"Invitaciones de boda",precio:50,imagen:"https://i.postimg.cc/MKwzN2RS/tarjetaboda.png",sector:"entretenimiento"},
 
 
 {nombre:"Aretes 1",imagen:"https://2img.net/i.imgur.com/NGCmw6s.png",precio:150,sector:"Moda"},
@@ -136,6 +138,7 @@
 {nombre:"Boina",imagen:"https://i.postimg.cc/yWdV24vm/Boina.png",precio:100,sector:"Moda"},
 {nombre:"Camiseta de fútbol",imagen:"https://i.postimg.cc/JzksHS76/camfut.png",precio:100,sector:"Moda"},
 {nombre:"Chaqueta de cuero",imagen:"https://i.postimg.cc/7hbvSVZ5/chaquecuero.png",precio:150,sector:"Moda"},
+{nombre:"Scrunchie",imagen:"https://i.postimg.cc/1XQ1kwg9/scrunchie.png",precio:50,sector:"Moda"},
 
 
 {nombre:"Libros",precio:100,imagen:"https://2img.net/i.imgur.com/jTc6oLB.png",sector:"Juegos"},
@@ -243,6 +246,8 @@
 {nombre:"Piano",precio:500,imagen:"https://2img.net/i.imgur.com/BXKjkoo.png",sector:"Objetos"},
 {nombre:"Caja musical",precio:100,imagen:"https://2img.net/i.imgur.com/ZPSJVDh.png",sector:"Objetos"},
 {nombre:"Pistola",precio:300,imagen:"https://i.postimg.cc/05H1PLV1/gun.png",sector:"Objetos"},
+{nombre:"Vaso de vidrio con tapa",precio:100,imagen:"https://i.imgur.com/5LMVe94.png",sector:"Objetos"},
+{nombre:"Petaca",precio:150,imagen:"https://i.postimg.cc/gJ3fHjgh/Petaca.png",sector:"Objetos"},
 
 
 {nombre:"Auto",precio:1000,imagen:"https://i.postimg.cc/prB6y42c/3.png",sector:"Movilidad"},
@@ -285,6 +290,7 @@
 {nombre:"Gabinete",precio:150,imagen:"https://i.postimg.cc/t4yPsfkY/image.png",sector:"Tecnología"},
 {nombre:"Tableta gráfica",precio:350,imagen:"https://i.postimg.cc/v1dtqdw6/Tableta-grafica.png",sector:"Tecnología"},
 {nombre:"Cámara polaroid",precio:500,imagen:"https://i.postimg.cc/LqRL26br/Polaroid.png",sector:"Tecnología"},
+{nombre:"Cámara desechable",precio:100,imagen:"https://i.postimg.cc/6q0gFSJq/cam-dese.png",sector:"Tecnología"},
 
 {nombre:"Mat",precio:100,imagen:"https://2img.net/i.imgur.com/9qZeKtn.png",sector:"Deportes"},
 {nombre:"Pesas",precio:100,imagen:"https://2img.net/i.imgur.com/w2S4OEM.png",sector:"Deportes"},
