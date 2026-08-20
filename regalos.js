@@ -150,6 +150,7 @@
 {nombre:"Cubo Rubik",precio:100,imagen:"https://2img.net/i.imgur.com/tb97oVT.png",sector:"Juegos"},
 {nombre:"Dardos",precio:100,imagen:"https://2img.net/i.imgur.com/ho3f9yt.png",sector:"Juegos"},
 {nombre:"Juguetes de niños",precio:100,imagen:"https://i.imgur.com/64XihNS.png",sector:"Juegos"},
+{nombre:"Bloques",precio:100,imagen:"https://i.imgur.com/UPZvmeJ.png",sector:"Juegos"},
 {nombre:"Sonajero",precio:50,imagen:"https://i.imgur.com/aAoGj0H.png",sector:"Juegos"},
 {nombre:"Oso de felpa",precio:100,imagen:"https://2img.net/i.imgur.com/zmvJ0uO.png",sector:"Juegos"},
 {nombre:"Molinillo",precio:50,imagen:"https://2img.net/i.imgur.com/cJHj9I1.png",sector:"Juegos"},
